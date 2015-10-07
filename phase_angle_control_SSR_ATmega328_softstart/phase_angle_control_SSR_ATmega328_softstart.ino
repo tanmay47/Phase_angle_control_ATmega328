@@ -68,7 +68,6 @@ void zero_crosss_int()
   }
   else
   {rea = rea1;}
-  TIMSK1 = 0b00000010;
 }
 
 void loop()
